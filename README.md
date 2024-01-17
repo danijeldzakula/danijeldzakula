@@ -50,7 +50,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-21212b?logo=github-actions)&nbsp;
 
 ![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
