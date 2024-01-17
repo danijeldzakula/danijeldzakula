@@ -1,7 +1,7 @@
 # 👋 Hey There! I am Danijel Dzakula
 
 <p align="center" height="300px">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Farasat+Ali;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web3+Developer;%E2%9A%9B%EF%B8%8F+React+Native+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AWS+%26+Azure;%F0%9F%A4%96+AI+and+Deep+Learning;%E2%9A%A1+Studying+Quantum+Computing" alt="Hey There! I am Danijel Dzakula, Front-end Developer, React Native Developer, Learning " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+There!+I+am+Danijel+Dzakula;+Front-end+Developer;+MERN+Full-stack+Developer" alt="Hey There! I am Danijel Dzakula, Front-end Developer, MERN Full-stack Developer" />
 <p/>
 
 <!-- ![Profile Views](https://gpvc.arturio.dev/danijeldzakula) -->  
