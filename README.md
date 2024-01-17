@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+There!+I+am+Danijel+Dzakula;+Front-end+Developer;+MERN+Full-stack+Developer" alt="Hey There! I am Danijel Dzakula, Front-end Developer, MERN Full-stack Developer" />
 <p/>
 
-<!-- ![Profile Views](https://gpvc.arturio.dev/danijeldzakula) -->  
-
-<p align="center" height="300px">
-  <a href="https://github.com/danijeldzakula">
-    <img src="https://komarev.com/ghpvc/?username=faraasat&style=for-the-badge" />
-  </a>
-</p>
-
 <hr />
 
 ### ✌ Things that will help you know me better:
