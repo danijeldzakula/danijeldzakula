@@ -1,27 +1,90 @@
-<h1 align="center"> 👋 Hey There! I am Danijel Dzakula</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+# 👋 Hey There! I am Danijel Dzakula
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dzakuladanijel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dzakuladanijel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danijel-dzakula-227530128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danijel-dzakula-227530128" height="30" width="40" /></a>
-<a href="https://codesandbox.com/danijeldzakula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danijeldzakula" height="30" width="40" /></a>
+<p align="center" height="300px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Farasat+Ali;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web3+Developer;%E2%9A%9B%EF%B8%8F+React+Native+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AWS+%26+Azure;%F0%9F%A4%96+AI+and+Deep+Learning;%E2%9A%A1+Studying+Quantum+Computing" alt="Hey There! I am Danijel Dzakula, Front-end Developer, React Native Developer, Learning " />
+<p/>
+
+<!-- ![Profile Views](https://gpvc.arturio.dev/danijeldzakula) -->  
+
+<p align="center" height="300px">
+  <a href="https://github.com/danijeldzakula">
+    <img src="https://komarev.com/ghpvc/?username=faraasat&style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<hr />
 
-<!--
-**danijeldzakula/danijeldzakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✌ Things that will help you know me better:
+  
+  - 🚀 I am very passionate and open to learning and discussing new technologies and frameworks!
+  - 👨‍🎓 I am a graduate and pursuing my goals and dreams.
+  - ⚙ I am interested in topics related to:
+    - Full Stack Web Development
+    - Canvas developer
+    - Back-end developer
+  - 🔭 I am currently working on multiple technologies like MERN Stack, NextJs, NestJs, ReactJs, and VanillaJs.
+  - 🔥 In my free time, I love to:
+    - Learn about soft skills.
+    - Watch mistery movies and travel vlogs.
+  - 📧 You can contact me at any time at <a href="mailto:danijeldzakula1991@gmail.com">danijeldzakula1991@gmail.com</a>. I'll try to respond ASAP!!
+  - ⚡ Fun fact: I want to visit every country on this planet.
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 Tech Stack:
+
+![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-21212b?logo=CSS3)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-21212b?logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript)&nbsp;
+
+![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-21212b?logo=redux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
+
+![Netlify](https://img.shields.io/badge/-Netlify-21212b?logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-21212b?logo=vercel)&nbsp;
+
+![AWS](https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-21212b?logo=github-actions)&nbsp;
+
+![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
+
+<hr />
+
+### ⚡ Some Analysis:
+
+<p align="center">
+  <a href="https://github.com/faraasat">
+    <img src="https://github-readme-stats.vercel.app/api?username=danijeldzakula&count_private=true&show_icons=true&theme=react" alt="About Farasat Ali Coding Style" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/faraasat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&layout=compact&langs_count=8&theme=jolly" alt="Farasat Ali's most used languages!" />
+  </a>
+</p>
+
+
+<hr />
+
+### 🤙 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danijel-dzakula-227530128/"><img src="https://img.shields.io/badge/Danijel%20Dzakula-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<!--   <a href="https://danijeldzakula.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp; -->
+  <a href="mailto:danijeldzakula1991@gmail.com"><img src="https://img.shields.io/badge/danijeldzakula1991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
+</p>
