@@ -12,8 +12,8 @@
   - 👨‍🎓 I am a graduate and pursuing my goals and dreams.
   - ⚙ I am interested in topics related to:
     - Full Stack Web Development
-    - Canvas developer
-    - Back-end developer
+    - Canvas development
+    - Back End developer
   - 🔭 I am currently working on multiple technologies like MERN Stack, NextJs, NestJs, ReactJs, and VanillaJs.
   - 🔥 In my free time, I love to:
     - Learn about soft skills.
