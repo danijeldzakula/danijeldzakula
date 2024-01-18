@@ -59,12 +59,12 @@
 ### ⚡ Some Analysis:
 
 <p align="center">
-  <a href="https://github.com/faraasat">
+  <a href="https://github.com/danijeldzakula">
     <img src="https://github-readme-stats.vercel.app/api?username=danijeldzakula&count_private=true&show_icons=true&theme=react" alt="About Farasat Ali Coding Style" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/faraasat">
+  <a href="https://github.com/danijeldzakula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&layout=compact&langs_count=8&theme=jolly" alt="Farasat Ali's most used languages!" />
   </a>
 </p>
