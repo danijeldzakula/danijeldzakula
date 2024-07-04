@@ -30,7 +30,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-21212b?logo=styled-components)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-21212b?logo=tailwindcss)&nbsp;
 ![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-21212b?logo=shadcnui)&nbsp;
 ![AntDesign](https://img.shields.io/badge/-AntDesign-21212b?logo=antdesign)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-21212b?logo=materialui)&nbsp;
