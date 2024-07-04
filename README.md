@@ -28,19 +28,25 @@
 ![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-21212b?logo=CSS3)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-21212b?logo=styled-components)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)&nbsp;
+![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-21212b?logo=shadcnui)&nbsp;
+![AntDesign](https://img.shields.io/badge/-AntDesign-21212b?logo=antdesign)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-21212b?logo=materialui)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-21212b?logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-21212b?logo=redux)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
+![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux)&nbsp;
+![Zustand](https://img.shields.io/badge/-zustand-21212b?logo=zustand)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
+
+![NodeJS](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
 
 ![Netlify](https://img.shields.io/badge/-Netlify-21212b?logo=netlify)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-21212b?logo=vercel)&nbsp;
@@ -50,9 +56,12 @@
 
 ![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket)&nbsp;
 
 ![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-21212b?logo=prisma)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongose-21212b?logo=mongoose)&nbsp;
 
 <hr />
 
@@ -77,6 +86,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danijel-dzakula-227530128/"><img src="https://img.shields.io/badge/Danijel%20Dzakula-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<!--   <a href="https://danijeldzakula.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp; -->
-  <a href="mailto:danijeldzakula1991@gmail.com"><img src="https://img.shields.io/badge/danijeldzakula1991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="mailto:danijeldzakula1991@gmail.com"><img src="https://img.shields.io/badge/danijeldzakula1991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;                                        
+</p>
+
+<hr />
+
+### 🤙 Follow me:
+
+<p align="center">
+   <a href="https://codepen.io/dzakuladanijel"><img src="https://img.shields.io/badge/Danijel%20Dzakula-000?style=flat-square&logo=Codepen&logoColor=white"/></a>&nbsp;&nbsp;  
 </p>
