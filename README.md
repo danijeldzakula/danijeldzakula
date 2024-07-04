@@ -91,7 +91,7 @@
 
 <hr />
 
-### 🤙 Follow me:
+### :eyes: Follow me:
 
 <p align="center">
    <a href="https://codepen.io/dzakuladanijel"><img src="https://img.shields.io/badge/Danijel%20Dzakula-000?style=flat-square&logo=Codepen&logoColor=white"/></a>&nbsp;&nbsp;  
