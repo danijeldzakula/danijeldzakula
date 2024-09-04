@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<hr />
+<hr style="margin-top: 0;" />
 
 ### ✌ Things that will help you know me better:
   
