@@ -1,6 +1,9 @@
 # 👋 Hey There! I am Danijel Dzakula &nbsp;&nbsp;
 
-<a href="https://github.com/danijeldzakula"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FDBB26&random=false&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Danijel+Dzakula;%F0%9F%94%A5+Front+End+Web+Developer;%E2%9A%A1+Mobile+App+Developer;%F0%9F%A4%99+Web+Technology" alt="👋 Hey There! I am Danijel Dzakula, 🔥 Front End Web Developer, ⚡ Mobile App Developer, 🤙 Web Technology" /></a>
+<a href="https://github.com/danijeldzakula">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FDBB26&random=false&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Danijel+Dzakula;%F0%9F%94%A5+Front+End+Web+Developer;%E2%9A%A1+Mobile+App+Developer;%F0%9F%A4%99+Web+Technology" 
+       alt="👋 Hey There! I am Danijel Dzakula, 🔥 Front End Web Developer, ⚡ Mobile App Developer, 🤙 Web Technology" />
+</a>
 
 <hr />
 
