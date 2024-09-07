@@ -9,6 +9,14 @@
 
 <hr style="margin-top: 0 !important;" />
 
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![NextJs Badge](https://img.shields.io/badge/-NextJs-ddd?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=white)](#) [![ReactJs Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![TypeScript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![NodeJs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![NestJs Badge](https://img.shields.io/badge/-NestJs-ea2868?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=ea2868)](#)
+
+<br />
+
 ### ✌ Things that will help you know me better:
   
   - 🚀 I am very passionate and open to learning and discussing new technologies and frameworks!
