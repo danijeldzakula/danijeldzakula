@@ -9,7 +9,7 @@
 
 <hr style="margin-top: 0 !important;" />
 
-### 🚀 Top Technologies
+### 🚀 Top Technologies:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
