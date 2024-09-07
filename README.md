@@ -1,4 +1,4 @@
-# 👋 Hey There! I am Danijel Dzakula &nbsp;&nbsp;
+# Hello and Welcome 👋, I'm Danijel Džakula
 
 <div>
   <a href="https://github.com/danijeldzakula">
