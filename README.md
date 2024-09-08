@@ -2,12 +2,12 @@
 
 <div>
   <a href="https://github.com/danijeldzakula">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FDBB26&random=false&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Danijel+Dzakula;%F0%9F%94%A5+Front+End+Web+Developer;%E2%9A%A1+Mobile+App+Developer;%F0%9F%A4%99+Web+Technology" 
-         alt="👋 Hey There! I am Danijel Dzakula, 🔥 Front End Web Developer, ⚡ Mobile App Developer, 🤙 Web Technology" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FDBB26&width=435&lines=%F0%9F%91%8B+Hey+There!+I'm+Danijel+Dzakula;%F0%9F%94%A5+Front-End+Web+Developer;%E2%9A%A1+React+%2F+Next.js+Expert;%F0%9F%A4%99+Passionate+about+Web+Technology" 
+         alt="👋 Hey There! I'm Danijel Dzakula, 🔥 Front-End Web Developer, ⚡ React / Next.js Expert, 🤙 Passionate about Web Technology" />
   </a>
 </div>
 
-<hr style="margin-top: 0 !important;" />
+<hr />
 
 ### 🚀 Top Technologies:
 
