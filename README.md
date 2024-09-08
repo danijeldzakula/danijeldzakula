@@ -20,37 +20,38 @@
 
 ### 👋 Hi there!
 
-I'm **Danijel**, a passionate **Full Stack Web Developer** on a mission to explore, learn, and create. I thrive on diving into new technologies and frameworks, always eager to push the boundaries of what's possible.
+I'm **Danijel**, a passionate **Front-End Web Developer** with a strong interest in crafting dynamic and user-friendly interfaces. My focus is on building visually appealing and highly functional web applications, with a keen eye for detail and a drive to constantly improve my skills.
 
 ### 🎓 Background & Skills
 
-With a solid foundation in **Full Stack Web Development**, I've immersed myself in the **MERN Stack**, **Next.js**, **NestJS**, **ReactJS**, and **VanillaJS**. My journey so far has been fueled by curiosity and a relentless drive to achieve my goals and dreams.
+With a solid foundation in **Front-End Development**, I've specialized in technologies such as **ReactJS**, **Next.js**, and **VanillaJS**. While I have dabbled in back-end technologies like **NestJS** and have a good grasp of the **MERN Stack**, my true passion lies in bringing the front-end to life, where I thrive on creating seamless user experiences.
 
 ### 🔧 Current Focus
 
-I'm currently working on multiple exciting projects where I get to flex my skills across the full stack. Whether it's building dynamic front-end interfaces or architecting robust back-end solutions, I'm in my element.
+I'm currently involved in several exciting projects, working primarily on the front end. My work includes designing and developing responsive and interactive interfaces, ensuring that the user experience is both intuitive and engaging.
 
 ### 🌟 Interests
 
-- **Canvas Development**: Creating visually stunning and interactive experiences.
-- **Back-End Development**: Crafting scalable and efficient server-side solutions.
+- **Responsive Design**: Ensuring that applications look and perform beautifully on any device.
+- **Animation & Interactivity**: Using technologies like Canvas and CSS animations to create engaging user experiences.
+- **Component-Based Architecture**: Leveraging React and Next.js to build scalable and maintainable codebases.
 
 ### 🚀 Beyond the Code
 
-When I'm not coding, you'll likely find me:
-- **Learning Soft Skills**: I believe that communication and teamwork are just as important as technical know-how.
-- **Watching Mystery Movies & Travel Vlogs**: Nothing beats the thrill of a good mystery or the inspiration of exploring new places.
-- **Planning My Next Adventure**: I have a dream to visit every country on this planet. 🌍
+When I'm not working on front-end projects, I love to:
+- **Enhance My Soft Skills**: Effective communication and teamwork are key to successful project delivery.
+- **Enjoy Mystery Movies & Travel Vlogs**: I’m always up for a good story or discovering new places through travel videos.
+- **Plan My Global Adventures**: My dream is to visit every country on Earth, experiencing different cultures along the way. 🌍
 
 ### 📩 Let's Connect
 
-Feel free to reach out anytime at **danijeldzakula1991@gmail.com**. I’m always open to new opportunities, collaborations, or just a friendly chat. I'll get back to you as soon as I can!
+Feel free to reach out anytime at **danijeldzakula1991@gmail.com**. Whether it's a potential collaboration or just a friendly chat about front-end development, I'd love to connect!
 
 ---
 
 ### ⚡ Fun Fact
 
-I have an insatiable wanderlust and a dream to visit every country on Earth. One day, I hope to have my passport filled with stamps from every corner of the globe!
+I love exploring new destinations, spending time in nature, and I’m a huge cat lover. 🐱
 
 <hr />
 
