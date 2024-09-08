@@ -17,20 +17,39 @@
 
 <br />
 
-### ✌ Things that will help you know me better:
-  
-  - 🚀 I am very passionate and open to learning and discussing new technologies and frameworks!
-  - 👨‍🎓 I am a graduate and pursuing my goals and dreams.
-  - ⚙ I am interested in topics related to:
-    - Full Stack Web Development
-    - Canvas development
-    - Back End developer
-  - 🔭 I am currently working on multiple technologies like MERN Stack, NextJs, NestJs, ReactJs, and VanillaJs.
-  - 🔥 In my free time, I love to:
-    - Learn about soft skills.
-    - Watch mistery movies and travel vlogs.
-  - 📧 You can contact me at any time at <a href="mailto:danijeldzakula1991@gmail.com">danijeldzakula1991@gmail.com</a>. I'll try to respond ASAP!!
-  - ⚡ Fun fact: I want to visit every country on this planet.
+### 👋 Hi there!
+
+I'm **Danijel**, a passionate **Full Stack Web Developer** on a mission to explore, learn, and create. I thrive on diving into new technologies and frameworks, always eager to push the boundaries of what's possible.
+
+### 🎓 Background & Skills
+
+With a solid foundation in **Full Stack Web Development**, I've immersed myself in the **MERN Stack**, **Next.js**, **NestJS**, **ReactJS**, and **VanillaJS**. My journey so far has been fueled by curiosity and a relentless drive to achieve my goals and dreams.
+
+### 🔧 Current Focus
+
+I'm currently working on multiple exciting projects where I get to flex my skills across the full stack. Whether it's building dynamic front-end interfaces or architecting robust back-end solutions, I'm in my element.
+
+### 🌟 Interests
+
+- **Canvas Development**: Creating visually stunning and interactive experiences.
+- **Back-End Development**: Crafting scalable and efficient server-side solutions.
+
+### 🚀 Beyond the Code
+
+When I'm not coding, you'll likely find me:
+- **Learning Soft Skills**: I believe that communication and teamwork are just as important as technical know-how.
+- **Watching Mystery Movies & Travel Vlogs**: Nothing beats the thrill of a good mystery or the inspiration of exploring new places.
+- **Planning My Next Adventure**: I have a dream to visit every country on this planet. 🌍
+
+### 📩 Let's Connect
+
+Feel free to reach out anytime at **danijeldzakula1991@gmail.com**. I’m always open to new opportunities, collaborations, or just a friendly chat. I'll get back to you as soon as I can!
+
+---
+
+### ⚡ Fun Fact
+
+I have an insatiable wanderlust and a dream to visit every country on Earth. One day, I hope to have my passport filled with stamps from every corner of the globe!
 
 <hr />
 
