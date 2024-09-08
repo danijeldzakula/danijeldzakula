@@ -70,7 +70,7 @@ I have an insatiable wanderlust and a dream to visit every country on Earth. One
 
 ![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux)&nbsp;
-![Zustand](https://img.shields.io/badge/-zustand-21212b?logo=zustand)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-21212b?logo=zustand)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
 
