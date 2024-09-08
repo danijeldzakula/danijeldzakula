@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Danijel Džakula
 
-<div>
+<div style="margin-top: 20px;">
   <a href="https://github.com/danijeldzakula">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=FDBB26&width=435&lines=%F0%9F%91%8B+Hey+There!+I'm+Danijel+Dzakula;%F0%9F%94%A5+Front-End+Web+Developer;%E2%9A%A1+React+%2F+Next.js+Expert;%F0%9F%A4%99+Passionate+about+Web+Technology" 
          alt="👋 Hey There! I'm Danijel Dzakula, 🔥 Front-End Web Developer, ⚡ React / Next.js Expert, 🤙 Passionate about Web Technology" />
