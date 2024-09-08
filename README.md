@@ -112,17 +112,10 @@ I have an insatiable wanderlust and a dream to visit every country on Earth. One
 
 <hr />
 
-### 🤙 Connect with Me:
+### 🤙 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danijel-dzakula-227530128/"><img src="https://img.shields.io/badge/Danijel%20Dzakula-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="mailto:danijeldzakula1991@gmail.com"><img src="https://img.shields.io/badge/danijeldzakula1991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;                                        
-</p>
-
-<hr />
-
-### :eyes: Follow me:
-
-<p align="center">
-   <a href="https://codepen.io/dzakuladanijel"><img src="https://img.shields.io/badge/Danijel%20Dzakula-000?style=flat-square&logo=Codepen&logoColor=white"/></a>&nbsp;&nbsp;  
+<p align="left">
+  <a href="https://www.linkedin.com/in/danijel-dzakula-227530128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danijel%20Dzakula-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:danijeldzakula1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-danijeldzakula1991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;          
+  <a href="https://codepen.io/dzakuladanijel" target="_blank"><img src="https://img.shields.io/badge/Codepen-Danijel%20Dzakula-000?style=flat-square&logo=Codepen&logoColor=white" alt="Codepen"></a>&nbsp;&nbsp;  
 </p>
