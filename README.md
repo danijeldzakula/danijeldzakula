@@ -93,7 +93,9 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Prisma-21212b?logo=prisma" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="26">&nbsp;
+<a href="https://www.linkedin.com/in/danijel-dzakula-227530128/" target="_blank">
+  <img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="26">
+</a>&nbsp;
 
 <hr />
 
