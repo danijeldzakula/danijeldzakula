@@ -57,43 +57,43 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 ### 📡 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-21212b?logo=CSS3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)&nbsp;
-![StyledComponents](https://img.shields.io/badge/-StyledComponents-21212b?logo=styled-components)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-21212b?logo=tailwindcss)&nbsp;
-![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-21212b?logo=shadcnui)&nbsp;
-![AntDesign](https://img.shields.io/badge/-AntDesign-21212b?logo=antdesign)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-21212b?logo=materialui)&nbsp;
+<img src="https://img.shields.io/badge/-HTML-21212b?&logo=HTML5" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-21212b?logo=CSS3" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Sass-21212b?logo=Sass" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-StyledComponents-21212b?logo=styled-components" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-TailwindCSS-21212b?logo=tailwindcss" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-ShadcnUI-21212b?logo=shadcnui" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-AntDesign-21212b?logo=antdesign" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-MaterialUI-21212b?logo=materialui" height="30" width="30">&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-21212b?logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript)&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="30" width="30">&nbsp;
 
-![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
-![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux)&nbsp;
-![Zustand](https://img.shields.io/badge/-Zustand-21212b?logo=zustand)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
+<img src="https://img.shields.io/badge/-React-21212b?logo=react" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Zustand-21212b?logo=zustand" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-21212b?logo=next.js" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-React%20Native-21212b?logo=react" height="30" width="30">&nbsp;
 
-![NodeJS](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
-![ExpressJS](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-21212b?logo=node.js" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Express-21212b?logo=express" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-NestJs-21212b?logo=nestjs" height="30" width="30">&nbsp;
 
-![Netlify](https://img.shields.io/badge/-Netlify-21212b?logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-21212b?logo=vercel)&nbsp;
+<img src="https://img.shields.io/badge/-Netlify-21212b?logo=netlify" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-21212b?logo=vercel" height="30" width="30">&nbsp;
 
-![AWS](https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure)&nbsp;
+<img src="https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure" height="30" width="30">&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket)&nbsp;
+<img src="https://img.shields.io/badge/-Git-21212b?logo=git" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-21212b?logo=github" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket" height="30" width="30">&nbsp;
 
-![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-21212b?logo=prisma)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongose-21212b?logo=mongoose)&nbsp;
+<img src="https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-21212b?logo=prisma" height="30" width="30">&nbsp;
+<img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="30" width="30">&nbsp;
 
 <hr />
 
