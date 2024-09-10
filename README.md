@@ -55,7 +55,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <hr />
 
-### 📡 Tech Stack:
+### 📡 Tech Stack and Tools:
 
 <img src="https://img.shields.io/badge/-Next.js-21212b?logo=next.js" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-React.js-21212b?logo=react" height="26">&nbsp;
@@ -98,6 +98,12 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <img src="https://img.shields.io/badge/-Jira-21212b?logo=jira" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Trello-21212b?logo=trello" height="26">&nbsp;
+
+<img src="https://img.shields.io/badge/-Figma-21212b?logo=figma" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-AdobePhotoshop-21212b?logo=adobephotoshop" height="26">&nbsp;
+
+<img src="https://img.shields.io/badge/-githubcopilot-21212b?logo=githubcopilot" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-ChatGPT-21212b?logo=openai" height="26">&nbsp;
 
 <hr />
 
