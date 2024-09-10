@@ -57,6 +57,25 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 ### 📡 Tech Stack:
 
+<img src="https://img.shields.io/badge/-Next.js-21212b?logo=next.js" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-React.js-21212b?logo=react" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-React%20Native-21212b?logo=react" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Zustand-21212b?logo=zustand" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Valtio-21212b?logo=valtio" height="26">&nbsp;
+
+<img src="https://img.shields.io/badge/-Node.js-21212b?logo=node.js" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Express-21212b?logo=express" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-NestJs-21212b?logo=nestjs" height="26">&nbsp;
+
+<img src="https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Prisma-21212b?logo=prisma" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="26">&nbsp;
+
+<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="26">&nbsp;
+
 <img src="https://img.shields.io/badge/-HTML-21212b?&logo=HTML5" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-21212b?logo=CSS3" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Sass-21212b?logo=Sass" height="26">&nbsp;
@@ -67,18 +86,9 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-AntDesign-21212b?logo=antdesign" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-MaterialUI-21212b?logo=materialui" height="26">&nbsp;
 
-<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="26">&nbsp;
-
-<img src="https://img.shields.io/badge/-Next.js-21212b?logo=next.js" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-React.js-21212b?logo=react" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-React%20Native-21212b?logo=react" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Zustand-21212b?logo=zustand" height="26">&nbsp;
-
-<img src="https://img.shields.io/badge/-Node.js-21212b?logo=node.js" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Express-21212b?logo=express" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-NestJs-21212b?logo=nestjs" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Git-21212b?logo=git" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-21212b?logo=github" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-Netlify-21212b?logo=netlify" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Vercel-21212b?logo=vercel" height="26">&nbsp;
@@ -86,14 +96,8 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-AWS-21212b?logo=amazon" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure" height="26">&nbsp;
 
-<img src="https://img.shields.io/badge/-Git-21212b?logo=git" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-21212b?logo=github" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket" height="26">&nbsp;
-
-<img src="https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Prisma-21212b?logo=prisma" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="26">
+<img src="https://img.shields.io/badge/-Jira-21212b?logo=jira" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Trello-21212b?logo=trello" height="26">&nbsp;
 
 <hr />
 
