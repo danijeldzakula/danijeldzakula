@@ -64,6 +64,9 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-Zustand-21212b?logo=zustand" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Valtio-21212b?logo=valtio" height="26">&nbsp;
 
+<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="26">&nbsp;
+
 <img src="https://img.shields.io/badge/-Node.js-21212b?logo=node.js" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Express-21212b?logo=express" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-NestJs-21212b?logo=nestjs" height="26">&nbsp;
@@ -72,9 +75,6 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Prisma-21212b?logo=prisma" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Mongose-21212b?logo=mongoose" height="26">&nbsp;
-
-<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-HTML-21212b?&logo=HTML5" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-21212b?logo=CSS3" height="26">&nbsp;
