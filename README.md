@@ -30,6 +30,11 @@ With a solid foundation in **Front-End Development**, I've specialized in techno
 
 I'm currently involved in several exciting projects, working primarily on the front end. My work includes designing and developing responsive and interactive interfaces, ensuring that the user experience is both intuitive and engaging.
 
+### 💻 Development Setup
+
+I work on a **Lenovo laptop** running **Linux**, which provides a stable and flexible development environment. My setup includes tools like **VSCode**, **Git**, and various front-end development libraries and frameworks. 
+For enhanced productivity, I use **two additional monitors**: an **ultra-wide monitor** for expansive workspace and a **portable monitor** for on-the-go flexibility. This multi-monitor setup helps me efficiently manage multiple tasks and workflows.
+
 ### 🌟 Interests
 
 - **Responsive Design**: Ensuring that applications look and perform beautifully on any device.
