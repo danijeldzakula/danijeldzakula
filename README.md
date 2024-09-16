@@ -41,7 +41,7 @@ I'm currently involved in several exciting projects, working primarily on the fr
 When I'm not working on front-end projects, I love to:
 - **Enhance My Soft Skills**: Effective communication and teamwork are key to successful project delivery.
 - **Enjoy Mystery Movies & Travel Vlogs**: I’m always up for a good story or discovering new places through travel videos.
-- **Plan My Global Adventures: My dream is to explore the world's coastal regions, experiencing different cultures along the way and indulging in the beauty of the sea. 🌊🌍
+- **Plan My Global Adventures**: My dream is to explore the world's coastal regions, experiencing different cultures along the way and indulging in the beauty of the sea. 🌊🌍
 
 ### 📩 Let's Connect
 
