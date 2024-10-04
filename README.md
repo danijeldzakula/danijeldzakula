@@ -97,9 +97,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <img src="https://img.shields.io/badge/-Netlify-21212b?logo=netlify" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Vercel-21212b?logo=vercel" height="26">&nbsp;
-
 <img src="https://img.shields.io/badge/-AWS-21212b?logo=amazon" height="26">&nbsp;
-<img src="https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-Jira-21212b?logo=jira" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Trello-21212b?logo=trello" height="26">&nbsp;
