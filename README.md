@@ -114,7 +114,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 ![stats](https://github-readme-stats.vercel.app/api?username=danijeldzakula&theme=tokyonight&count_private=true&show_icons=true)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&hide=java,html,tex&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&langs_count=3)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&hide=java,html,tex&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&langs_count=4)
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&layout=compact&langs_count=8&theme=jolly" alt="Farasat Ali's most used languages! -->
 
