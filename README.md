@@ -125,7 +125,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <hr />
 
-### 🔥 Reach me out:
+### 🔥 Reach me out
 
 ![Page Visits](https://komarev.com/ghpvc/?username=danijeldzakula&color=blue)
 
