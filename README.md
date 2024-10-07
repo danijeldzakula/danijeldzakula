@@ -123,6 +123,13 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/danijeldzakula">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&hide=java,html,tex&title_color=70a5fd&text_color=fff&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
+  </a>
+</p>
+
+
 <hr />
 
 ### 🔥 Reach me out
