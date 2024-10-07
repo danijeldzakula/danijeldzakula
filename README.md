@@ -113,10 +113,9 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 ### ⚡ Some Analysis:
 
 <p align="left">
-  <a href="https://github.com/danijeldzakula">
-    <img src="https://github-readme-stats.vercel.app/api?username=danijeldzakula&count_private=true&show_icons=true&theme=react" alt="About Farasat Ali Coding Style" />
-  </a>
+  ![stats](https://github-readme-stats.vercel.app/api?username=danijeldzakula&theme=tokyonight&count_private=true&show_icons=true)
 </p>
+
 <p align="left">
   <a href="https://github.com/danijeldzakula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danijeldzakula&layout=compact&langs_count=8&theme=jolly" alt="Farasat Ali's most used languages!" />
