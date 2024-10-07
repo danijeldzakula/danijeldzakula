@@ -112,9 +112,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 ### ⚡ Some Analysis:
 
-<p align="left">
-  ![stats](https://github-readme-stats.vercel.app/api?username=danijeldzakula&theme=tokyonight&count_private=true&show_icons=true)
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=danijeldzakula&theme=tokyonight&count_private=true&show_icons=true)
 
 <p align="left">
   <a href="https://github.com/danijeldzakula">
