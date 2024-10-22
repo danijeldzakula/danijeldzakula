@@ -101,6 +101,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <img src="https://img.shields.io/badge/-Jira-21212b?logo=jira" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Trello-21212b?logo=trello" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Google-21212b?logo=google" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-Figma-21212b?logo=figma" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-AdobePhotoshop-21212b?logo=adobephotoshop" height="26">&nbsp;
