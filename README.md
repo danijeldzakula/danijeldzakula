@@ -93,6 +93,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 
 <img src="https://img.shields.io/badge/-Git-21212b?logo=git" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-21212b?logo=github" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-Gitlab-21212b?logo=gitlab" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-BitBucket-21212b?logo=bitbucket" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-Netlify-21212b?logo=netlify" height="26">&nbsp;
