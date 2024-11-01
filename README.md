@@ -107,7 +107,7 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-Figma-21212b?logo=figma" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-AdobePhotoshop-21212b?logo=adobephotoshop" height="26">&nbsp;
 
-<img src="https://img.shields.io/badge/-Github-Copilot-21212b?logo=githubcopilot" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-githubcopilot-21212b?logo=Github-Copilot" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-ChatGPT-21212b?logo=openai" height="26">&nbsp;
 
 <hr />
