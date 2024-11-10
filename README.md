@@ -40,6 +40,7 @@ For enhanced productivity, I use **two additional monitors**: an **ultra-wide mo
 - **Responsive Design**: Ensuring that applications look and perform beautifully on any device.
 - **Animation & Interactivity**: Using technologies like Canvas and CSS animations to create engaging user experiences.
 - **Component-Based Architecture**: Leveraging React and Next.js to build scalable and maintainable codebases.
+- **Advanced Frontend Solutions**: Designing and implementing complex frontend systems that integrate various data sources and logical flows into a seamless and cohesive user experience.
 
 ### 🚀 Beyond the Code
 
