@@ -67,8 +67,8 @@ I love exploring new destinations, spending time in nature, and I’m a huge cat
 <img src="https://img.shields.io/badge/-React.js-21212b?logo=react" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-React%20Native-21212b?logo=react" height="26">&nbsp;
 
-<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript" height="26">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-21212b?logo=javascript" height="26">&nbsp;
 
 <img src="https://img.shields.io/badge/-ReduxToolkit-21212b?logo=redux" height="26">&nbsp;
 <img src="https://img.shields.io/badge/-Zustand-21212b?logo=zustand" height="26">&nbsp;
