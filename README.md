@@ -1,4 +1,4 @@
-# Hello and Welcome 👋, I'm Danijel Džakula
+# Hello and Welcome 👋, I'm Danijel Džakula 🧑‍💻
 
 <div style="margin-top: 20px;">
   <br />
